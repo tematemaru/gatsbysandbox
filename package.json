@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "bootstrap": "^4.3.1",
     "gatsby": "^2.15.7",
     "gatsby-image": "^2.2.17",
     "gatsby-plugin-manifest": "^2.2.13",
@@ -12,11 +13,18 @@
     "gatsby-plugin-react-helmet": "^3.1.6",
     "gatsby-plugin-sharp": "^2.2.19",
     "gatsby-source-filesystem": "^2.1.21",
+    "gatsby-transformer-remark": "^2.6.21",
     "gatsby-transformer-sharp": "^2.2.13",
+    "html2canvas": "^1.0.0-rc.5",
+    "lottie-player": "^1.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.9.0",
+    "react-bootstrap": "^1.0.0-beta.12",
     "react-dom": "^16.9.0",
-    "react-helmet": "^5.2.1"
+    "react-helmet": "^5.2.1",
+    "react-lottie": "^1.2.3",
+    "three": "^0.110.0",
+    "three-orbitcontrols": "^2.110.1"
   },
   "devDependencies": {
     "prettier": "^1.18.2"
