@@ -27,8 +27,8 @@ class LottiePlayer extends React.PureComponent {
       <Lottie
         ref={(node) => { this.ref = node }}
         options={defaultOptions}
-        height={400}
-        width={400}
+        height={window.innerHeight}
+        width={window.innerWidth}
         isStopped={this.state.isStopped}
         isPaused={this.state.isPaused}
       />

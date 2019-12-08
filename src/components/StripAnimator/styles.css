@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'TRYGalien';
+  src: url('./TRYGalien-Light-Fix.woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+
+.strip-wrapper {
+  overflow: hidden;
+}
+
+.strip {
+  position: relative;
+  line-height: 0.66;
+  font-size: 255px;
+  font-family: 'TRYGalien', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+  /* text-transform: uppercase; */
+  white-space: nowrap;
+}
+
+.char {
+  display: inline-block;
+  transition: all;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
