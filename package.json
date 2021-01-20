@@ -17,7 +17,7 @@
     "gatsby-transformer-remark": "^2.6.21",
     "gatsby-transformer-sharp": "^2.2.13",
     "glslify": "^7.0.0",
-    "gsap": "^3.0.1",
+    "gsap": "^3.6.0",
     "html2canvas": "^1.0.0-rc.5",
     "lottie-player": "^1.0.0",
     "pixi.js": "^5.2.0",
